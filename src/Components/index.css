@@ -1,0 +1,21 @@
+.my-flex-container{
+    border:3px dotted rgb(196, 250, 196);
+    background-color: rgb(196, 250, 196);
+    height:300px;
+    margin-bottom:20px;
+    border-radius: 10px;
+    
+}
+.my-flex-container-column{
+    border:3px dotted rgb(196, 250, 196);
+    background-color: rgb(196, 250, 196);
+    height:300px;
+    margin-bottom:20px;
+    border-radius: 10px;
+}
+.my-flex-item{
+    height: 48px;
+    text-align: center;
+    height: 96px;
+}
+
